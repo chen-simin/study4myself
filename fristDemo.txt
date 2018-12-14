@@ -8,3 +8,5 @@
 
 
 chen-simin
+
+git config --global credential.helper store
